@@ -1,5 +1,4 @@
-Below is an example of a comprehensive Markdown file (for instance, a README.md) that explains the contents, structure, and concepts demonstrated in the **"day-4-fine-tuning-a-custom-model.ipynb"** notebook. You can modify or extend the sections as needed to better reflect any specific details present in your notebook.
-
+Below is an example of a comprehensive Markdown file (for instance, a README.md) that explains the contents, structure, and concepts demonstrated in the **"day-4-fine-tuning-a-custom-model.ipynb"** notebook.
 ---
 
 # Day 4: Fine-Tuning a Custom Model
